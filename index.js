@@ -1,3 +1,3 @@
 function preserveDecimal(n){
-  return n.parseFloat()
+  return parseFloat(n)
 }
